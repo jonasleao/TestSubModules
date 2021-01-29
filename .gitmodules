@@ -1,5 +1,5 @@
 [submodule "module2"]
-	path = module2
+	path = api
 	url = https://github.com/jonasleao/module2.git
 [submodule "web"]
 	path = web
